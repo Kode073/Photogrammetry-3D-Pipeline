@@ -1,0 +1,1 @@
+objet7: photos adaptées à la détection automatique des points
